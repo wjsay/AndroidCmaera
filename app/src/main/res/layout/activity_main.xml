@@ -16,6 +16,6 @@
         android:id="@+id/btn_camera"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="茄子"/>
+        android:text="调用内置照相机"/>
 
 </LinearLayout>
